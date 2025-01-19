@@ -25,5 +25,7 @@ Click on the Import button on the top right to Import and view the file.
 Right click on the dir, then click extract. 
 Open the dir and follow steps in 2. above to open the .fig files.
 
+## Othe files can be accessed directly from Figam once you log in
+
 ## Authors
-- [Joab Owala](https://github.com/MeFerdi)
+- [Ferdynand Odhiambo](https://github.com/MeFerdi)
